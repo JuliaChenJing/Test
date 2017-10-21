@@ -48,6 +48,7 @@ INSERT INTO `Category` (`id`, `enabled`, `name`) VALUES (4, b'1', 'Ruby');
 INSERT INTO `Category` (`id`, `enabled`, `name`) VALUES (5, b'1', 'C');
 INSERT INTO `Category` (`id`, `enabled`, `name`) VALUES (6, b'1', 'C++');
 INSERT INTO `Category` (`id`, `enabled`, `name`) VALUES (7, b'1', 'PYTHON');
+INSERT INTO `Category` (`id`, `enabled`, `name`) VALUES (8, b'1', 'DATABASE');
 
 -- Subcategory Data Sample
 INSERT INTO `Subcategory` (`id`, `enabled`, `name`, `category_id`) VALUES (1, b'1', 'Core', 1);
@@ -58,4 +59,5 @@ INSERT INTO `Subcategory` (`id`, `enabled`, `name`, `category_id`) VALUES (5, b'
 INSERT INTO `Subcategory` (`id`, `enabled`, `name`, `category_id`) VALUES (6, b'1', 'Spring', 1);
 INSERT INTO `Subcategory` (`id`, `enabled`, `name`, `category_id`) VALUES (7, b'1', 'JAVA', 1);
 INSERT INTO `Subcategory` (`id`, `enabled`, `name`, `category_id`) VALUES (8, b'1', 'PHP', 3);
+INSERT INTO `Subcategory` (`id`, `enabled`, `name`, `category_id`) VALUES (9, b'1', 'MSSQL', 8);
 
