@@ -7,18 +7,18 @@ INSERT INTO `User` (`userId`, `email`, `enabled`, `firstName`, `lastName`, `pass
 INSERT INTO `Authority` (`id`, `authority`, `userId`) VALUES (2, 'ROLE_COACH', 2);
 
 
-INSERT INTO `User` (`userId`, `email`, `enabled`, `firstName`, `lastName`, `password`, `username`) VALUES (3, 'dba@gmail.com', b'1', 'dba', 'dba', '$2a$10$NKtwZv9mcnnycFK1KXfnrutCuLs26PIU5TA33xaM7wWhCWCnz.HCG', 'dba');
+INSERT INTO `User` (`userId`, `email`, `enabled`, `firstName`, `lastName`, `password`, `username`) VALUES (3, 'dba@gmail.com', b'1', 'dba', 'dba', '$2a$10$s4iVVd1/AVQQetD6nmFolOstiHel71H4G43yzSBQg2iZcm9xQJcem', 'dba');
 INSERT INTO `Authority` (`id`, `authority`, `userId`) VALUES (3, 'ROLE_DBA', 3);
 
 
 -- Student users
 INSERT INTO `User` (`userId`, `email`, `enabled`, `firstName`, `lastName`, `password`, `username`) VALUES (4, 'juliachenjing@gmail.com', b'1', 'Julia', 'Chen', null, null);
-INSERT INTO `User` (`userId`, `email`, `enabled`, `firstName`, `lastName`, `password`, `username`) VALUES (5, 'bimalparajulise@mum.edu', b'1', 'Bimal', 'Parajuli', null, null);
+INSERT INTO `User` (`userId`, `email`, `enabled`, `firstName`, `lastName`, `password`, `username`) VALUES (5, 'bimalparajulise@gmail.edu', b'1', 'Bimal', 'Parajuli', null, null);
 
 INSERT INTO `User` (`userId`, `email`, `enabled`, `firstName`, `lastName`, `password`, `username`) VALUES (6, 'test4@mum.edu', b'1', 'Stu04', 'Stu04', null, null);
 INSERT INTO `User` (`userId`, `email`, `enabled`, `firstName`, `lastName`, `password`, `username`) VALUES (7, 'test5@mum.edu', b'1', 'Stu05', 'Stu05', null, null);
 INSERT INTO `User` (`userId`, `email`, `enabled`, `firstName`, `lastName`, `password`, `username`) VALUES (8, 'test6@mum.edu', b'1', 'Stu06', 'Stu06', null, null);
-INSERT INTO `User` (`userId`, `email`, `enabled`, `firstName`, `lastName`, `password`, `username`) VALUES (10, 'test7@mum.edu', b'1', 'Stu07', 'Stu07', null, null);
+INSERT INTO `User` (`userId`, `email`, `enabled`, `firstName`, `lastName`, `password`, `username`) VALUES (9, 'test7@mum.edu', b'1', 'Stu07', 'Stu07', null, null);
 
 
 INSERT INTO `Grade` (`name`, `rangeFrom`, `rangeTo`) VALUES ('A', 95, 98);
