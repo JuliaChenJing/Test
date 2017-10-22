@@ -1,0 +1,4 @@
+	<definition name="/admin/students" extends="base-definition">
+		<put-attribute name="menu" value="/WEB-INF/tiles/admin-menu.jsp"></put-attribute>
+		<put-attribute name="content" value="/WEB-INF/views/admin/students.jsp" />
+	</definition>
