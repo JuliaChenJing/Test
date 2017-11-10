@@ -1,19 +1,27 @@
-As a creative, motivated and highly adaptable software engineer with 4 years of programming experience, combining excellent educational credentials with hands-on network server management and programming skills, I am certain that I possess the expertise and qualifications needed as as a Software Engineer.
-I bring proven strengths in analysis, team collaboration and project management, combined with deep proficiency in all aspects of the software development life cycle, and I am confident that my knowledge and experience will enable me to immediately contribute to the performance of your team.
- 
-I am well versed in the use of Java, C++, Spring, Hibernate, HTML5, CSS3, RESTful, JSP, Servlet, Visual C++, PowerShell, Cloud Computing, SCOM, CDN, Active Directory, DNS, MySQL, MFC, Visual Studio, Eclipse, Windows Server and numerous additional cutting edge technologies.
- 
+var arr=[1,2,3,4,5,6,7];
+arr.pop();
+console.log(arr);
+arr.shift();
+console.log(arr);
+arr.reverse();
+console.log(arr);
 
-Highlights of my abilities:
- 
-Rapidly adapting to and implementing emerging technologies and platforms to drive application versatility and performance.
- 
-Coordinating multiple simultaneous projects and adeptly managing priorities while flourishing in demanding and fast paced working environments.
- 
-Discovering and resolving an array of software issues through expert analysis, testing, troubleshooting and debugging skills.
- 
- 
-Please refer to the included resume for a more detailed overview of my talents and background, and feel free to contact me at your earliest convenience to schedule an interview. Thank you for your time and consideration, and I look forward to hearing from you soon.
+var x=9;
+x=x>>2;
+x=x<<2;
+x=x^3;
+console.log(x);
+document.writeln(x);
 
-Thanks,
-Julia
+console.log("before"+typeof tfunction);
+function tfunction(I){}
+console.log("after"+typeof tfunction);
+
+var total=0;
+for(var x=1;x<5;x=x<<1){
+    total+=x;
+}
+console.log(total);
+
+a=typeof new Number(0);
+console.log(a);
