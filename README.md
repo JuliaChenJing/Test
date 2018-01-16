@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=UEcdQR-NoNA
 
 https://www.youtube.com/watch?v=49QM3KkOKXs
 
+https://www.youtube.com/watch?v=MN2WkxPnGTo
+
 Udemy
 
 mynotes for the meeting
