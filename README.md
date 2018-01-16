@@ -8,3 +8,5 @@ Udemy
 mynotes for the meeting
 
 try install youdaonote if possible
+
+:wq   //whenever gitbash shows big long commit messages
